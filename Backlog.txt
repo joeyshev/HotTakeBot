@@ -1,6 +1,4 @@
-V1 goal:
-* Get set up on Python
-* “Elite” QB bullshit
+V1 goal: “Elite” QB bullshit
     * Every QB in the league
-    * Elite or not elite with reason
+    * Verdict of "elite" or "not elite" with "reason"
     * Reason comes before or after verdict
